@@ -1,9 +1,9 @@
 {
-  "version": "2.0",
+  "version": "3.0",
   "createdAt": "2017-08-17",
   "rules": [
     {
-      "origin": "www.a.com:1",
+      "origin": "www.c.com:1",
       "target": "www.b.com:2",
       "enable": true
     },
