@@ -1,0 +1,11 @@
+{
+  "version": "2.0",
+  "createdAt": "2017-08-17",
+  "rules": [
+    {
+      "origin": "www.a.com",
+      "target": "www.b.com",
+      "enable": true
+    }
+  ]
+}
