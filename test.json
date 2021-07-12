@@ -3,8 +3,13 @@
   "createdAt": "2017-08-17",
   "rules": [
     {
-      "origin": "www.a.com",
-      "target": "www.b.com",
+      "origin": "www.a.com:1",
+      "target": "www.b.com:2",
+      "enable": true
+    },
+     {
+      "origin": "www.a.com:3",
+      "target": "www.b.com:4",
       "enable": true
     }
   ]
